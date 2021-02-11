@@ -1,0 +1,7 @@
+For blue and yellow trash (papel + carton, plastico + metal, vidrio)
+https://www.kaggle.com/asdasdasasdas/garbage-classification?
+
+For brown (organico)
+https://www.kaggle.com/techsash/waste-classification-data?
+
+For green (vidrio)
